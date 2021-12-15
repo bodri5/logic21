@@ -32,3 +32,4 @@ Section exercise1d.
 Goal (P->Q)->(P->R)->(Q->R->W)->P->W.
 Abort.
 End exercise1d.
+
